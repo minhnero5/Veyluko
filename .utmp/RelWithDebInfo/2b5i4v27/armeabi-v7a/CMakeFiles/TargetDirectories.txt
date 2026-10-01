@@ -1,0 +1,8 @@
+/Volumes/Oziny/Game/Veyluko/.utmp/RelWithDebInfo/2b5i4v27/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Volumes/Oziny/Game/Veyluko/.utmp/RelWithDebInfo/2b5i4v27/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Volumes/Oziny/Game/Veyluko/.utmp/RelWithDebInfo/2b5i4v27/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+/Volumes/Oziny/Game/Veyluko/.utmp/RelWithDebInfo/2b5i4v27/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+/Volumes/Oziny/Game/Veyluko/.utmp/RelWithDebInfo/2b5i4v27/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Volumes/Oziny/Game/Veyluko/.utmp/RelWithDebInfo/2b5i4v27/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Volumes/Oziny/Game/Veyluko/.utmp/RelWithDebInfo/2b5i4v27/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Volumes/Oziny/Game/Veyluko/.utmp/RelWithDebInfo/2b5i4v27/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
